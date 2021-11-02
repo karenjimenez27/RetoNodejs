@@ -6,3 +6,6 @@ conexion con la BD y mongosedb atlas
 creacion de la capreta modelos y archivo usuario
 creacion de los atributos de la tabla de la base de datos  del reto 
 
+se realizó exitosamente la conexion con mongodb compass  y se almacenaron nuevos usuarios. 
+
+
