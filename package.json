@@ -1,0 +1,11 @@
+{
+  "name": "retonodejs",
+  "version": "1.0.0",
+  "description": "Reto Nodejs semana 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karen Jimenez",
+  "license": "ISC"
+}
