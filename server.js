@@ -56,3 +56,12 @@ router.get('/Usuario', (req, res) => {
         }
     })
 })
+    router.deleteOne('/Usuario', async (req, res) => {
+        UsuarioSchema.remove(function(err, datos){
+       if(err){
+           console.log("Error en la eliminación de datos");        
+       }else{
+           res.send("usuario eliminado");
+       }
+   })
+})
